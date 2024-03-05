@@ -1,4 +1,4 @@
-2Fastt Keylogger
+# 2Fastt Keylogger
 
 This project is a Python-based remote keylogger that securely records user keystrokes and sends them to a remote server. The keylogger runs silently in the background, capturing keystrokes without interrupting the user's normal activities.
 Key Features:
@@ -8,7 +8,7 @@ Key Features:
     Background Execution: Operates discreetly in the background without displaying windows or visible indicators to the user, ensuring covert keystroke logging.
     Customizable Configuration: Users can configure the IP address and port of the remote server to suit their specific needs, providing flexibility for use in different network environments.
 
-Recommended Use:
+# Recommended Use:
 
 This remote keylogger is designed for educational and security purposes and can be used for monitoring and analysis in controlled and ethical environments. It's important to respect privacy and obtain appropriate consent before using this software to monitor others' activities.
 Security Notes:
@@ -16,10 +16,10 @@ Security Notes:
     Responsible Use: This software should be used responsibly and ethically. Monitoring others' keystrokes without their consent may violate privacy and data protection laws.
     Data Protection: Users are responsible for protecting the data captured by the keylogger and ensuring its secure storage on the remote server. Additional security measures, such as data encryption and user authentication, are recommended to protect sensitive information.
 
-Contribution and Support:
+# Contribution and Support:
 
 Contributions are welcome! If you have suggestions, improvements, or encounter any issues, feel free to open an issue or submit a pull request on GitHub. For additional help or support, you can use the discussion section of the repository.
-License:
+# License:
 
 This project is distributed under the MIT License, allowing you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell the software, subject to the conditions of the license.
 
