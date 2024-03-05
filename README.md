@@ -21,7 +21,7 @@ Security Notes:
     Data Protection: Users are responsible for protecting the data captured by the keylogger and ensuring its secure storage on the remote server. Additional security measures, such as data encryption and user authentication, are recommended to protect sensitive information.
 
 # How to use.
-    To use the keylogger, users need to input the server's IP address and port and then execute the .py script or convert it to an executable (exe) file using auto-py-to-exe to hide the command prompt window when running. Then just listen in the port that u introduce in the script, and you will be able to see what are the keys that the victim is pressing.
+    To use the keylogger, first you need to install: pip install pynput. then users need to input the server's IP address and port and then execute the .py script or convert it to an executable (exe) file using auto-py-to-exe to hide the command prompt window when running. Then just listen in the port that u introduce in the script, and you will be able to see what are the keys that the victim is pressing.
 
 # Contribution and Support:
 
