@@ -4,8 +4,11 @@ This project is a Python-based remote keylogger that securely records user keyst
 Key Features:
 
     Keystroke Logging: Captures all keystrokes made by the user, including letters, numbers, symbols, and special keys.
+    
     Secure Server Connection: Captured data is sent securely to a remote server via a TCP/IP connection, enabling remote monitoring of keystrokes from any location.
+    
     Background Execution: Operates discreetly in the background without displaying windows or visible indicators to the user, ensuring covert keystroke logging.
+    
     Customizable Configuration: Users can configure the IP address and port of the remote server to suit their specific needs, providing flexibility for use in different network environments.
 
 # Recommended Use:
@@ -14,6 +17,7 @@ This remote keylogger is designed for educational and security purposes and can 
 Security Notes:
 
     Responsible Use: This software should be used responsibly and ethically. Monitoring others' keystrokes without their consent may violate privacy and data protection laws.
+    
     Data Protection: Users are responsible for protecting the data captured by the keylogger and ensuring its secure storage on the remote server. Additional security measures, such as data encryption and user authentication, are recommended to protect sensitive information.
 
 # Contribution and Support:
